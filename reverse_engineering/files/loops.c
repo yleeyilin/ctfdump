@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//  install ghidra with: brew install --cask temurin && brew install --cask ghidra
+
 int main(void) {
     size_t i, x, y;
     x = 11;
