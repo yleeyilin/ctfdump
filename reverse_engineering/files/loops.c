@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-//  install ghidra with: brew install --cask temurin && brew install --cask ghidra
-
+// Install ghidra with: brew install --cask temurin && brew install --cask ghidra
+// NOTE: Ghidra does not work w macos silicon ewjfbou
+// TODO: try w macos intel next
 int main(void) {
     size_t i, x, y;
     x = 11;
